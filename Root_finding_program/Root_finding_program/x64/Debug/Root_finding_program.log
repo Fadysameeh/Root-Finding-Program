@@ -1,0 +1,9 @@
+﻿  Root_finding_program.cpp
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(156,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(322,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(323,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(324,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(325,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\c++ test\Root_finding_program\Root_finding_program\Root_finding_program.cpp(326,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Root_finding_program.vcxproj -> D:\c++ test\Root_finding_program\x64\Debug\Root_finding_program.exe
